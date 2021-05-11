@@ -11,6 +11,7 @@
 	<groupId>org.simplilearn.workshop</groupId>
 	<artifactId>Springboot-AWS</artifactId>
 	<version>1.0-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Springboot-AWS</name>
 	<description>This project will test the user authentication class.</description>
 	<properties>
